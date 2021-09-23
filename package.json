@@ -1,0 +1,31 @@
+{
+    "name": "stormy-lighthouse-dark",
+    "displayName": "Stormy Lighthouse",
+    "description": "Brooding stormy lighthouse style theme. Easy on the eyes, soft, and gloomy.",
+    "version": "1.0.0",
+    "publisher": "ZaderRox1111",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "dark",
+        "zaderrox1111",
+        "zaderrox1111 dark",
+        "zaderrox",
+        "zaderrox1111 theme"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Stormy Lighthouse",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Stormy Lighthouse-color-theme.json"
+            }
+        ]
+    }
+}

@@ -6,7 +6,8 @@
     "publisher": "ZaderRox1111",
     "icon": "images/logo.png",
     "galleryBanner": {
-        "color": "#2B3946"
+        "color": "#2B3946",
+        "theme": "dark"
     },
     "repository": {
         "type": "git",

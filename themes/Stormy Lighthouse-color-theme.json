@@ -175,6 +175,7 @@
 		"tab.unfocusedActiveForeground": "#719BAD",
 		"tab.unfocusedInactiveBackground": "#125A6910",
 		"tab.unfocusedInactiveForeground": "#719BAD7f",
+		"panel.border": "#719BAD7f",
 		"terminal.ansiBlack": "#1C252E",
 		"terminal.ansiBlue": "#C15F6F",
 		"terminal.ansiBrightBlack": "#125A69",

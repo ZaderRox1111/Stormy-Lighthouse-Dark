@@ -4,7 +4,10 @@
     "description": "Brooding stormy lighthouse style theme. Easy on the eyes, soft, and gloomy.",
     "version": "1.0.1",
     "publisher": "ZaderRox1111",
-    "icon": "logo.png",
+    "icon": "images/logo.png",
+    "galleryBanner": {
+        "color": "#2B3946"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/ZaderRox1111/Stormy-Lighthouse-Dark"

@@ -1,5 +1,5 @@
 {
-	"name": "Stormy Lighthouse",
+	"name": "Stormy Lighthouse Dark",
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {
@@ -157,7 +157,7 @@
 		"statusBar.border": "#1C252E60",
 		"statusBar.debuggingBackground": "#54AC86",
 		"statusBar.debuggingForeground": "#F9A64E",
-		"statusBar.foreground": "#172027",
+		"statusBar.foreground": "#719BAD",
 		"statusBar.noFolderBackground": "#1C252E",
 		"statusBarItem.hoverBackground": "#125A6920",
 		"statusBarItem.remoteBackground": "#125A69",
